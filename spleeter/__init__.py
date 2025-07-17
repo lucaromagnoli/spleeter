@@ -16,6 +16,7 @@ by providing train, evaluation and source separation action.
 __email__ = "spleeter@deezer.com"
 __author__ = "Deezer Research"
 __license__ = "MIT License"
+__version__ = "2.4.2"
 
 
 class SpleeterError(Exception):
